@@ -1,4 +1,4 @@
-# Loan EMI Tracker (Python backend)
+# Loan EMI Tracker (Python)
 
 A full-stack web app for tracking staff/member loans — add members, issue
 loans, auto-generate a reducing-balance EMI schedule, monitor outstanding
